@@ -1,0 +1,13 @@
+#ignore all files
+*
+!*/
+
+#except the following files
+!.gitignore
+!*.jpg
+!*.gif
+!*.txt
+!*.html
+
+
+#except the following folders
