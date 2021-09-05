@@ -6,8 +6,9 @@
 !.gitignore
 !*.jpg
 !*.gif
-!*.txt
 !*.html
-
+!*.mp3
+!*.txt
+!*.pdf
 
 #except the following folders
