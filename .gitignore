@@ -6,6 +6,7 @@
 !.gitignore
 !*.jpg
 !*.gif
+!*.htm
 !*.html
 !*.mp3
 !*.txt
