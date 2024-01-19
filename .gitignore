@@ -11,5 +11,13 @@
 !*.mp3
 !*.txt
 !*.pdf
+!*.scss
+!*.css
+!*.js
+!*.js.map
+!*.eot
+!*.ttf
+!*.woff
+
 
 #except the following folders
